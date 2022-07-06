@@ -31,7 +31,7 @@
         if(count($check) == 0){
         $stmt = $conn->prepare("INSERT INTO rating (user, target, value) VALUES (:zuser, :ztarget, :zval)");
         $stmt->execute(array(
-        
+         
             "zuser" => $user,
             "ztarget" => $target,
             "zval"=> $value,
