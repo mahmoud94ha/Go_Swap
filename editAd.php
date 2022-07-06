@@ -61,6 +61,7 @@
             $picTmp2 = $_FILES["image2"]["tmp_name"];
             $picType2 = $_FILES["image2"]["type"];
                 
+                    
                 
             $picName3 = $_FILES["image3"]["name"];
             $picSize3 = $_FILES["image3"]["size"];
