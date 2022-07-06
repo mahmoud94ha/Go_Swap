@@ -1,10 +1,10 @@
-##Description 📋
+# Description 📋
 
 
 Go Swap is a Website to help clients to trade unwanted items that not in use in while and exchange items for items with the same value 
 
 
-##features
+# features
 
 
 - Signup Users
@@ -23,7 +23,7 @@ add a comment on the product
 sending message to complete the trade
 
 
-##How to setup Go Swap
+# How to setup Go Swap
 
 
 - Step 1: install XAMPP
@@ -33,7 +33,7 @@ you need install the XAMPP , you need to download it from the official website
 - Step 4 : Run the Project . For this you need to go to https://localhost/goswap/main.php
 
 
-##To do list:
+# To do list:
 
 
 - Sending SMS Natification when you go new message 
@@ -42,7 +42,7 @@ you need install the XAMPP , you need to download it from the official website
 - Full profile edit
 - Full protection of data from injections
 
-###AUTHORS 🖋
+# AUTHORS 🖋
 
 
 
