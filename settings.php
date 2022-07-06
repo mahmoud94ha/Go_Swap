@@ -30,7 +30,7 @@
                     }
                     else{
                         $password = sha1($password);
-                        
+                         
                         $stmt = $conn->prepare("UPDATE users SET password = '$password' WHERE userID = " . $_SESSION["id"]);
                         $stmt->execute();
                         if($stmt)
