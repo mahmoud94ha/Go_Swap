@@ -138,7 +138,7 @@
                 <div class="w3-row w3-margin">
         <?php 
 
-                $citem = $row["itemID"];
+                $citem = $row["itemID"]; 
                 if(isset($_SESSION["id"])) $user = $_SESSION["id"];            
                 $list = getAllFrom("*","likes","WHERE itemID = '$citem' AND userID = '$user'");
                 if(count($list) > 0){ ?>    
