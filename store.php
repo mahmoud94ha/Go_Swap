@@ -164,7 +164,7 @@ if($_SERVER["REQUEST_METHOD"] == "GET"){
     <label class="w3-label w3-#4cc9f0 w3-center"><?php echo lang('PRICE')?></label>  
     <div class="w3-row-padding w3-margin-bottom">
 
-        <div class="w3-half">
+        <div class="w3-half"> 
             <p><input class="w3-input" type="number" placeholder="Minimum" name="prix_min" ></p>
         </div>
         <div class="w3-half">
