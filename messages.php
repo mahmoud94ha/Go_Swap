@@ -75,7 +75,7 @@ if(isset($_SESSION["username"])){
                                  
     $getMessages = getMessages($connectedUser);
 
-    foreach($getMessages as $message){
+    foreach($getMessages as $message){ 
             if(strcmp($connectedUser,$message["user1"])==0){
                 array_push($user_array,$message["user2"]);              
             }else{
