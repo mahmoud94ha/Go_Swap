@@ -111,6 +111,7 @@ else {  ?>
 </header>    
     
     
+    
 <?php } ?>
 
 <div class="w3-row-padding w3-light-grey" style="margin:auto;">    
