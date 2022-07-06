@@ -145,6 +145,7 @@
                         "zname" => $fullname          
                     ));
                     
+                        
                     $successMsg = "<div class='alert alert-success'>" . lang("SUCCESS-SIGNUP") . "</div>"; 
 
                     // Check if user exists
