@@ -159,7 +159,7 @@
                         "zfront_camera" => $front_camera,
                         "zback_camera" => $rear_camera,
                         "zOS" => $os,
-                        "zpending" => $pending,
+                        "zpending" => $pending, 
                         "zcatID" => $catID,
                         "zuserID" => $_SESSION["id"]
                         
